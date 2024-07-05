@@ -1,4 +1,4 @@
-import { character,episode,location} from '../types.ts';
+import { character,location} from '../types.ts';
 import axios from "npm:axios"
 import { GraphQLError } from "graphql";
 
